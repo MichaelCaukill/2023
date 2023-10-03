@@ -5,5 +5,4 @@ year = 0
 while investment < target:
     year = year + 1
     investment = investment * interest
-    print(investment)
-    print(year, "Years")
+    print(investment, year, "Years")
